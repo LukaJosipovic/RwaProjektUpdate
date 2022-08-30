@@ -1,0 +1,443 @@
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\ApartmaniMVC.dll.config
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\ApartmaniMVC.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\ApartmaniMVC.pdb
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\csc.exe
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\csc.exe.config
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\csc.rsp
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\csi.exe
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\csi.exe.config
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\csi.rsp
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.AppContext.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Collections.Immutable.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Console.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Globalization.Calendars.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.IO.Compression.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.IO.FileSystem.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Net.Http.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Net.Sockets.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.ValueTuple.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Xml.XPath.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\vbc.exe
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\vbc.exe.config
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\vbc.rsp
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\VBCSCompiler.exe
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\VBCSCompiler.exe.config
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\Antlr3.Runtime.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\Lib.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\Microsoft.ApplicationBlocks.Data.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\Microsoft.Web.Infrastructure.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\Newtonsoft.Json.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Helpers.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Mvc.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Optimization.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Razor.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Webpages.Deployment.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Webpages.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Webpages.Razor.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\WebGrease.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\Lib.pdb
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\Antlr3.Runtime.pdb
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\Newtonsoft.Json.xml
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Optimization.xml
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Razor.xml
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Webpages.xml
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Webpages.Deployment.xml
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Webpages.Razor.xml
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Helpers.xml
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Mvc.xml
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\obj\Debug\ApartmaniMVC.csproj.AssemblyReference.cache
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\obj\Debug\ApartmaniMVC.csproj.CoreCompileInputs.cache
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\obj\Debug\ApartmaniMVC.csproj.CopyComplete
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\obj\Debug\ApartmaniMVC.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\obj\Debug\ApartmaniMVC.pdb
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Net.Http.Formatting.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Http.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Http.WebHost.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Net.Http.Formatting.xml
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Http.xml
+D:\Algebra\4 semestar\Razvoj web aplikacija\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Http.WebHost.xml
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\ApartmaniMVC.dll.config
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\ApartmaniMVC.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\ApartmaniMVC.pdb
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\csc.exe
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\csc.exe.config
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\csc.rsp
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\csi.exe
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\csi.exe.config
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\csi.rsp
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.AppContext.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Collections.Immutable.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Console.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Globalization.Calendars.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.IO.Compression.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.IO.FileSystem.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Net.Http.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Net.Sockets.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.ValueTuple.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Xml.XPath.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\vbc.exe
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\vbc.exe.config
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\vbc.rsp
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\VBCSCompiler.exe
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\VBCSCompiler.exe.config
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\Antlr3.Runtime.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\Lib.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\Microsoft.ApplicationBlocks.Data.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\Microsoft.Web.Infrastructure.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\Newtonsoft.Json.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Net.Http.Formatting.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Helpers.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Http.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Http.WebHost.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Mvc.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Optimization.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Razor.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Webpages.Deployment.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Webpages.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Webpages.Razor.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\WebGrease.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\Lib.pdb
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\Antlr3.Runtime.pdb
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\Newtonsoft.Json.xml
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Net.Http.Formatting.xml
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Http.xml
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Http.WebHost.xml
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Optimization.xml
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Razor.xml
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Webpages.xml
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Webpages.Deployment.xml
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Webpages.Razor.xml
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Helpers.xml
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Mvc.xml
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\obj\Debug\ApartmaniMVC.csproj.AssemblyReference.cache
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\obj\Debug\ApartmaniMVC.csproj.CoreCompileInputs.cache
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\obj\Debug\ApartmaniMVC.csproj.CopyComplete
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\obj\Debug\ApartmaniMVC.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Projekt\Apartmani\Projekt\ApartmaniMVC\obj\Debug\ApartmaniMVC.pdb
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\ApartmaniMVC.dll.config
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\ApartmaniMVC.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\ApartmaniMVC.pdb
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\csc.exe
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\csc.exe.config
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\csc.rsp
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\csi.exe
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\csi.exe.config
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\csi.rsp
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.AppContext.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Console.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Net.Http.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\vbc.exe
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\vbc.exe.config
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\vbc.rsp
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\Antlr3.Runtime.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\Lib.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\Newtonsoft.Json.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Net.Http.Formatting.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Helpers.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Http.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Http.WebHost.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Mvc.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Optimization.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Razor.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Webpages.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\WebGrease.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\Lib.pdb
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\Antlr3.Runtime.pdb
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\Newtonsoft.Json.xml
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Net.Http.Formatting.xml
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Http.xml
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Http.WebHost.xml
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Optimization.xml
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Razor.xml
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Webpages.xml
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Helpers.xml
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Mvc.xml
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\obj\Debug\ApartmaniMVC.csproj.AssemblyReference.cache
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\obj\Debug\ApartmaniMVC.csproj.CoreCompileInputs.cache
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\obj\Debug\ApartmaniMVC.csproj.CopyComplete
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\obj\Debug\ApartmaniMVC.dll
+C:\Users\luka\Desktop\RWAProjekt\Projekt\Apartmani\Projekt\ApartmaniMVC\obj\Debug\ApartmaniMVC.pdb
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\ApartmaniMVC.dll.config
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\ApartmaniMVC.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\ApartmaniMVC.pdb
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\csc.exe
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\csc.exe.config
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\csc.rsp
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\csi.exe
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\csi.exe.config
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\csi.rsp
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.AppContext.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Collections.Immutable.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Console.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Globalization.Calendars.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.IO.Compression.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.IO.FileSystem.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Net.Http.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Net.Sockets.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.ValueTuple.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Xml.XPath.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\vbc.exe
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\vbc.exe.config
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\vbc.rsp
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\VBCSCompiler.exe
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\VBCSCompiler.exe.config
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\Antlr3.Runtime.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\Lib.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\Microsoft.ApplicationBlocks.Data.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\Microsoft.Web.Infrastructure.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\Newtonsoft.Json.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\System.Net.Http.Formatting.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Helpers.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Http.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Http.WebHost.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Mvc.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Optimization.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Razor.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Webpages.Deployment.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Webpages.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Webpages.Razor.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\WebGrease.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\Lib.pdb
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\Antlr3.Runtime.pdb
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\Newtonsoft.Json.xml
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\System.Net.Http.Formatting.xml
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Http.xml
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Http.WebHost.xml
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Optimization.xml
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Razor.xml
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Webpages.xml
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Webpages.Deployment.xml
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Webpages.Razor.xml
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Helpers.xml
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Mvc.xml
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\obj\Debug\ApartmaniMVC.csproj.AssemblyReference.cache
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\obj\Debug\ApartmaniMVC.csproj.CoreCompileInputs.cache
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\obj\Debug\ApartmaniMVC.csproj.CopyComplete
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\obj\Debug\ApartmaniMVC.dll
+D:\Algebra\4 semestar\Razvoj web aplikacija\Vjezbe_snimke\Rwa\Apartmani\Projekt\ApartmaniMVC\obj\Debug\ApartmaniMVC.pdb
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\ApartmaniMVC.dll.config
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\ApartmaniMVC.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\ApartmaniMVC.pdb
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\csc.exe
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\csc.exe.config
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\csc.rsp
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\csi.exe
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\csi.exe.config
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\csi.rsp
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.AppContext.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Console.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Net.Http.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Net.Sockets.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\vbc.exe
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\vbc.exe.config
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\vbc.rsp
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\Antlr3.Runtime.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\Lib.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\Microsoft.ApplicationBlocks.Data.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\Newtonsoft.Json.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\System.Net.Http.Formatting.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Helpers.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Http.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Http.WebHost.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Mvc.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Optimization.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Razor.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Webpages.Deployment.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Webpages.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Webpages.Razor.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\WebGrease.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\Lib.pdb
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\Antlr3.Runtime.pdb
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\Newtonsoft.Json.xml
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\System.Net.Http.Formatting.xml
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Http.xml
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Http.WebHost.xml
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Optimization.xml
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Razor.xml
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Webpages.xml
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Webpages.Deployment.xml
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Webpages.Razor.xml
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Helpers.xml
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\System.Web.Mvc.xml
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\obj\Debug\ApartmaniMVC.csproj.AssemblyReference.cache
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\obj\Debug\ApartmaniMVC.csproj.CoreCompileInputs.cache
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\obj\Debug\ApartmaniMVC.csproj.CopyComplete
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\obj\Debug\ApartmaniMVC.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\obj\Debug\ApartmaniMVC.pdb
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\CaptchaMvc.dll
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\CaptchaMvc.pdb
+C:\Users\luka\Desktop\RwaProjekt-master\RwaProjekt-master\Apartmani\Projekt\ApartmaniMVC\bin\CaptchaMvc.xml

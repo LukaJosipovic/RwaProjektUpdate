@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apartmani", "Apartmani\Apartmani.csproj", "{49834CC3-E13A-4150-B5A0-C1938F6F97F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib", "Lib\Lib.csproj", "{51DA14BB-AF59-4778-B1DF-A6DA7F8AE637}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApartmaniMVC", "ApartmaniMVC\ApartmaniMVC.csproj", "{70337B70-2C04-4606-9D5F-DF83737CFE77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49834CC3-E13A-4150-B5A0-C1938F6F97F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49834CC3-E13A-4150-B5A0-C1938F6F97F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49834CC3-E13A-4150-B5A0-C1938F6F97F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49834CC3-E13A-4150-B5A0-C1938F6F97F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51DA14BB-AF59-4778-B1DF-A6DA7F8AE637}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51DA14BB-AF59-4778-B1DF-A6DA7F8AE637}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51DA14BB-AF59-4778-B1DF-A6DA7F8AE637}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51DA14BB-AF59-4778-B1DF-A6DA7F8AE637}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70337B70-2C04-4606-9D5F-DF83737CFE77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70337B70-2C04-4606-9D5F-DF83737CFE77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70337B70-2C04-4606-9D5F-DF83737CFE77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70337B70-2C04-4606-9D5F-DF83737CFE77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87C7F202-B2F0-4C1D-A5C3-600AB52327CE}
+	EndGlobalSection
+EndGlobal

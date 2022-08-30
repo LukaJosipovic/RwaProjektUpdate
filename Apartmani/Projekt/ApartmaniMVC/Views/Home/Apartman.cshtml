@@ -1,0 +1,151 @@
+﻿@using ApartmaniMVC.Models
+@using CaptchaMvc.HtmlHelpers
+@model ApartmaniMVC.Models.ApartmentReservation
+@{
+    ViewBag.Title = "Apartman";
+}
+<div class="container">
+    <div class="row">
+        @foreach (var item in ViewBag.json)
+        {
+            <div class="col-md-4 border border-end-0 border-3 p-2">
+                @if (item.ImageData == null)
+                {
+                    <h6>No image</h6>
+                }
+                else
+                {
+                    string base64 = Convert.ToBase64String(@item.ImageData);
+                    string path = "data:image/jpeg;base64," + base64;
+                    <img src="@path" alt="Image can't be loaded" class="img-fluid" />
+                }
+            </div>
+            <div class="col-md-3 border border-start-0 border-3 p-2">
+                <h4>@item.Name</h4>
+                <p>City: @item.Name1</p>
+                <p>BeachDistance: @item.BeachDistance</p>
+                <p>Maximum number of adults: @item.MaxAdults</p>
+                <p>Maximum number of children: @item.MaxChildren</p>
+                <p>Rooms: @item.TotalRooms</p>
+                <p>Price: @item.Price kn</p>
+            </div>
+            if (Session["login"] != null)
+            {
+                <div class="col-md-5">
+                    <h1>Contact</h1>
+                    @using (Html.BeginForm("ApartmanReservation", "Home", "POST"))
+                    {
+                        <input type="hidden" name="ApartmentId" value=@item.Id>
+                        <input type="hidden" name="UserId" value=@((Session["login"] as User).Id)>
+                        <h6>Name: </h6>
+                        @Html.TextBox(name: "username", value: (Session["login"] as User).UserName, htmlAttributes: new { @class = "form-control" })
+                        @Html.ValidationMessageFor(model => model.UserName, "", new { @class = "text-danger" })
+                        <h6>E-mail: </h6>
+                        @Html.TextBox(name: "useremail", value: (Session["login"] as User).Email, htmlAttributes: new { @class = "form-control" })
+                        @Html.ValidationMessageFor(model => model.UserEmail, "", new { @class = "text-danger" })
+                        <h6>Phone number: </h6>
+                        @Html.TextBox(name: "userphone", value: (Session["login"] as User).PhoneNumber, htmlAttributes: new { @class = "form-control" })
+                        @Html.ValidationMessageFor(model => model.UserPhone, "", new { @class = "text-danger" })
+                        <h6>User address: </h6>
+                        @Html.TextBox(name: "useraddress", value: (Session["login"] as User).Address, htmlAttributes: new { @class = "form-control" })
+                        @Html.ValidationMessageFor(model => model.UserAddress, "", new { @class = "text-danger" })
+                        <h6>
+                            Date formate: 27.6.2022-19.6.2011
+                            @Html.TextBox(name: "details", value: "", htmlAttributes: new { @class = "form-control" })
+                            @Html.ValidationMessageFor(model => model.Details, "", new { @class = "text-danger" })
+                        </h6>
+                        <button type="submit" class="btn btn-primary">Reservation</button>
+                    }
+                </div>
+            }
+            else
+            {
+                <div class="col-md-5">
+                    <h1>Contact</h1>
+                    @using (Html.BeginForm("ApartmanReservation", "Home", "POST"))
+                    {
+                        <input type="hidden" name="ApartmentId" value=@item.Id>
+                        <h6>Name: </h6>
+                        @Html.TextBox(name: "username", value: "", htmlAttributes: new { @class = "form-control" })
+                        @Html.ValidationMessageFor(model => model.UserName, "", new { @class = "text-danger" })
+                        <h6>E-mail: </h6>
+                        @Html.TextBox(name: "useremail", value: "", htmlAttributes: new { @class = "form-control" })
+                        @Html.ValidationMessageFor(model => model.UserEmail, "", new { @class = "text-danger" })
+                        <h6>Phone number: </h6>
+                        @Html.TextBox(name: "userphone", value: "", htmlAttributes: new { @class = "form-control" })
+                        @Html.ValidationMessageFor(model => model.UserPhone, "", new { @class = "text-danger" })
+                        <h6>User address: </h6>
+                        @Html.TextBox(name: "useraddress", value: "", htmlAttributes: new { @class = "form-control" })
+                        @Html.ValidationMessageFor(model => model.UserAddress, "", new { @class = "text-danger" })
+                        <h6>
+                            Date formate: 27.6.2022-19.6.2011
+                            @Html.TextBox(name: "details", value: "", htmlAttributes: new { @class = "form-control" })
+                            @Html.ValidationMessageFor(model => model.Details, "", new { @class = "text-danger" })
+                        </h6>
+                        <div>
+                            @Html.Captcha(3)
+                            <button type="submit" class="btn btn-primary">Reservation</button>
+                        </div>
+                    }
+                </div>
+            }
+        }
+    </div>
+</div>
+
+<div class="container mt-3">
+    <div class="row">
+        @foreach (var item in ViewBag.jsonImage)
+        {
+            string base64 = Convert.ToBase64String(@item.ImageData);
+            string path = "data:image/jpeg;base64," + base64;
+            <div class="col-md-3">
+                <img src="@path" alt="Image can't be loaded" class="img-fluid" />
+            </div>
+        }
+    </div>
+</div>
+
+<div class="container bg-light rounded mt-3 p-2">
+    <h4>Tag</h4>
+    @foreach (var item in ViewBag.jsonTag)
+    {
+        <span>@item.Name, </span>
+    }
+</div>
+
+
+<div class="container mt-4">
+    <div class="row">
+        <div class="col-md-6">
+            <h4>Reviews</h4>
+        </div>
+        <div class="col-md-6 d-flex flex-row-reverse">
+            @if (Session["login"] != null)
+            {
+                using (Html.BeginForm("Review", "Home", "POST"))
+                {
+                    foreach (var item in ViewBag.json)
+                    {
+                        <input type="hidden" name="ApartmentId" value=@item.Id>
+                        <input type="submit" class="btn btn-primary" value="Add review" />
+                    }
+                }
+            }
+        </div>
+    </div>
+    @foreach (var item in ViewBag.jsonReviews)
+    {
+        <div class="border border-3 rounded mt-3 p-1">
+            <p><span style="margin-right: 20px">@item.UserName</span> <span>@item.Stars</span> <i class="bi bi-star-fill"></i></p>
+            <p>@item.Details</p>
+        </div>
+    }
+</div>
+
+@section Scripts{
+    @Scripts.Render("~/Validation")
+}
+
+
+

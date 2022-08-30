@@ -1,0 +1,21 @@
+﻿@using ApartmaniMVC.Models
+@{
+    ViewBag.Title = "Login";
+}
+
+@if (Session["login"] == null)
+{
+    <div class="alert alert-danger">
+        <h1>Incorrect username or password, please try again</h1>
+        <a href="/">Login</a>
+    </div>
+    
+}
+else
+{
+<div class="alert alert-success">
+    <h1>Welcome @((Session["login"] as User).UserName)</h1>
+    @Html.ActionLink("Apartmani", "Apartmani", "Home", null, new { @class = "navbar-brand" })
+</div>
+}
+

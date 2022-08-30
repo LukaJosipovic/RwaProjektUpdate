@@ -1,0 +1,54 @@
+﻿
+@{
+    ViewBag.Title = "Apartmani";
+}
+
+<div class="container"> 
+    <h6>Sort by price:</h6>
+        @using (Html.BeginForm("ApartmaniSorted", "Home", "POST"))
+        {
+            <input class="btn btn-primary" type="submit" name="sort" value="Default" />
+            <input class="btn btn-primary" type="submit" name="sort" value="Growing" />
+            <input class="btn btn-primary" type="submit" name="sort" value="Falling" />
+        }
+</div>
+
+@foreach (var item in ViewBag.json)
+{
+
+    if (item.Name3 == "Slobodno")
+    {
+        <div class="container">
+            <div class="row border border-secondary p-5 mt-5">
+                <div class="col-md-4 ">
+                    @if (item.ImageData == null)
+                    {
+                        <h6>No image</h6>
+                    }
+                    else
+                    {
+                        string base64 = Convert.ToBase64String(@item.ImageData);
+                        string path = "data:image/jpeg;base64," + base64;
+                        <img src="@path" alt="Image can't be loaded" class="img-fluid" />
+                    }
+                </div>
+                <div class="col-md-4">
+                    <h4>@item.Name</h4>
+                    <p>City: @item.Name1</p>
+                    <p>BeachDistance: @item.BeachDistance</p>
+                    <p>Maximum number of adults: @item.MaxAdults</p>
+                    <p>Maximum number of children: @item.MaxChildren</p>
+                    <p>Rooms: @item.TotalRooms</p>
+                    <p>Price: @item.Price kn</p>
+                </div>
+                <div class="col-md-4">
+                    @using (Html.BeginForm("Apartmani", "Home", "POST"))
+                    {
+                        <input type="hidden" name="Id" value=@item.Id>
+                        <button type="submit" class="btn btn-primary">Reservation</button>
+                    }
+                </div>
+            </div>
+        </div>
+    }
+}

@@ -1,0 +1,41 @@
+﻿@model ApartmaniMVC.Models.User
+@{
+    ViewBag.Title = "Index";
+    
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width"/>
+    <title>Login</title>
+</head>
+<body>
+    <div class="container">
+        @using (Html.BeginForm("Index", "Home", "POST"))
+        {
+            <div class="p-3">
+                @Html.Label(expression: "username", labelText: "Username:")
+                @Html.TextBox(name: "username", value: "", htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.UserName, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="p-3">
+                @Html.Label(expression: "passwordHash", labelText: "Password:")
+                @Html.Password(name: "passwordHash", value: "", htmlAttributes: new { @class = "form-control" })
+                @Html.ValidationMessageFor(model => model.PasswordHash, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="p-3">
+                <button type="submit" class="btn btn-primary">Login</button>
+            </div>
+        }
+    </div>
+
+@section Scripts{
+    @Scripts.Render("~/Validation")
+}
+</body>
+</html>
+

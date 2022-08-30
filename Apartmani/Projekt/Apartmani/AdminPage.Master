@@ -1,0 +1,92 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="AdminPage.master.cs" Inherits="Apartmani.AdminPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+
+    <asp:ContentPlaceHolder ID="Head" runat="server">
+    </asp:ContentPlaceHolder>
+
+    <style>
+        fieldset {
+            border: 1px solid #ced4da;
+            padding: inherit;
+            border-radius: 4px;
+        }
+
+        #legend {
+            float: initial;
+            width: auto;
+            padding: revert;
+            font-size: initial;
+            margin: 0;
+        }
+        #sort{
+            background-color: #F3F3F3;
+        }
+    </style>
+
+    <link rel="stylesheet" href="//cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css" />
+
+
+</head>
+<body>
+    <form id="admin" runat="server">
+
+        <!--HEADER-->
+        <nav class="navbar navbar-expand-lg bg-light">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="#">Apartmani</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                    <div class="navbar-nav">
+                        <%if (Session["user"] == null) 
+                            {%>
+                                <a class="nav-link active" aria-current="page" href="Default.aspx">Login</a>
+                           <% } %>
+                               <% else
+                               { %>
+                                <asp:LinkButton ID="btnLogout" class="nav-link active" runat="server" OnClick="btnLogout_Click">Logout</asp:LinkButton>
+                             <% } %>
+
+                        <a class="nav-link" href="Registration.aspx">Registration</a>
+                        <a class="nav-link" href="Dashboard.aspx">Dashboard</a>
+                        <a class="nav-link" href="Admin.aspx">Admin</a>
+                    </div>
+                </div>
+            </div>
+        </nav>
+
+        <div>
+            <asp:ContentPlaceHolder ID="Content" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+
+        <!--FOOTER-->
+        <div class="card text-center">
+            <div class="card-footer text-muted">
+                &copy Apartmani d.o.o.
+            </div>
+        </div>
+
+    </form>
+
+    <!--JQUERY-->
+    <script src="Scripts/jquery-3.6.0.min.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
+    <script src="//cdn.datatables.net/1.12.1/js/jquery.dataTables.min.js"></script>
+    <script src="http://cdn.rawgit.com/davidstutz/bootstrap-multiselect/master/dist/js/bootstrap-multiselect.js"></script> 
+
+    <script>
+        $(document).ready(function () {
+            $('#myTable').DataTable();
+        });
+    </script>
+</body>
+</html>

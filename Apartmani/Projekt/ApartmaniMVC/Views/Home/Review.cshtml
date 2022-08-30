@@ -1,0 +1,32 @@
+﻿@using ApartmaniMVC.Models
+@{
+    ViewBag.Title = "Review";
+}
+
+<div class="container">
+    @using (Html.BeginForm("ReviewAdded", "Home", "POST")) 
+    {
+        <input type="hidden" name="ApartmentId" value=@ViewBag.apartmentId>
+        <input type="hidden" name="UserId" value=@((Session["login"] as User).Id)>
+        <div class="mb-3">
+            <span style="font-size:18px; font-weight:bold">Stars</span>
+            @Html.DropDownList("Stars", new List<SelectListItem>
+            {
+                new SelectListItem{ Text="1", Value = "1" },
+                new SelectListItem{ Text="2", Value = "2" },
+                new SelectListItem{ Text="3", Value = "3" },
+                new SelectListItem{ Text="4", Value = "4" },
+                new SelectListItem{ Text="5", Value = "5" }
+            })
+        </div>
+    
+        <div class="mb-3">
+            <span style="font-size:18px; font-weight:bold">Leave a comment</span>
+            @Html.TextArea("Comment", new { @class = "form-control" })
+        </div>
+        <button type="submit" class="btn btn-primary">Add review</button>
+    }
+</div>
+
+
+
